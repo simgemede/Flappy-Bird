@@ -1,0 +1,11 @@
+C:\Users\simge\OneDrive\Masaüstü\FlappyBird\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\simge\OneDrive\Masaüstü\FlappyBird\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\simge\OneDrive\Masaüstü\FlappyBird\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\simge\OneDrive\Masaüstü\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\simge\OneDrive\Masaüstü\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.SuggestedBindingRedirects.cache
+C:\Users\simge\OneDrive\Masaüstü\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\simge\OneDrive\Masaüstü\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\simge\OneDrive\Masaüstü\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\simge\OneDrive\Masaüstü\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\simge\OneDrive\Masaüstü\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\simge\OneDrive\Masaüstü\FlappyBird\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
